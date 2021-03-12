@@ -1,2 +1,2 @@
-# teaching
+# Materials
 Teaching materials for lessons
