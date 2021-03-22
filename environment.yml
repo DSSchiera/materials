@@ -1,4 +1,4 @@
-﻿name: base
+name: base
 channels:
   - conda-forge
   - defaults
@@ -140,4 +140,6 @@ dependencies:
     - pandas==1.2.3
     - pvlib==0.8.1
     - scipy==1.6.1
+    - voila==0.2.7
     - widgetsnbextension==3.5.1
+prefix: C:\Users\DanieleSchiera\Miniconda3
