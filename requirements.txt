@@ -12,7 +12,6 @@ certifi==2020.12.5
 cffi==1.14.0
 chardet==3.0.4
 colorama==0.4.3
-conda>=4.9.0
 conda-package-handling==1.7.0
 cryptography==2.9.2
 cycler==0.10.0
