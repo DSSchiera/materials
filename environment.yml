@@ -8,3 +8,14 @@ dependencies:
   - jupyterlab
   - matplotlib
   - nodejs
+  - pandas
+  - pip:
+    - ephem==3.7.7.1
+    - ipympl==0.6.3
+    - ipywidgets==7.6.3
+    - jupyterlab-widgets==1.0.0
+    - numpy==1.20.1
+    - pandas==1.2.3
+    - pvlib==0.8.1
+    - scipy==1.6.1
+    - widgetsnbextension==3.5.1
